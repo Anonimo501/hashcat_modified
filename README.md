@@ -8,9 +8,7 @@ Grupo en Telegram https://t.me/Pen7esting
 
 Es un simple script que ejecuta hashcat para facilitar la vida.
 
-
-
-
+![hashcat1](https://user-images.githubusercontent.com/67207446/148468531-84afba58-c2bc-4d26-9a77-97ec50ecccce.png)
 
 ## Uso
 
